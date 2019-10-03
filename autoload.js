@@ -1,5 +1,5 @@
 //注意：live2d_path参数应使用绝对路径
-const live2d_path = "https://cdn.jsdelivr.net/gh/littlegreedy/live2d/";
+const live2d_path = "https://cdn.jsdelivr.net/gh/littlegreedy/live2d@49ff1e0f41614b1aa9c6fd112daf0b06def376a4/";
 //const live2d_path = "/live2d-widget/";
 
 //加载waifu.css
